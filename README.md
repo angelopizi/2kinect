@@ -9,6 +9,7 @@
  -
 [Microsoft Download Center](https://www.microsoft.com/ko-kr/download/)에서 설치 파일 [Kinect for Windows SDK v2](https://developer.microsoft.com/ko-kr/windows/kinect/)을 다운 받는다. 
 ![](images/download(1).png)
+
 최신버전 사용을 추천합니다.
 
 시스템 요구 사항:
