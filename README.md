@@ -14,9 +14,11 @@ System Requirements:
 
 Supported Operating System (Embedded 8 Standard, Windows8, Window 8.1)
    - Recommended Hardware Configuration : 64-bit (x64) processor / 4 GB Memory (or more) / Physical dual-core 3.1 GHz (2 logical cores per physical) or faster processor / USB 3.0 controller dedicated to the Kinect for Windows v2 sensor* / DX11 capable graphics adapter** / A Microsoft Kinect v2 sensor, which includes a power hub and USB cabling 
-   ![] (images/kinect%20hardware.png)
-  - Softerware Resquirements 
-        - Visual Studio 2012 or Visual Studio 2013 
+
+![](images/kinect%20hardware.png)
+
+- Softerware Resquirements 
+        - [Visual Studio](https://visualstudio.microsoft.com/ko/) 
 
 While intsalling:
   1. Make sure the kinect sensor is not plugged into any of the USB ports on the computer.
