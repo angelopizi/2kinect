@@ -1,7 +1,7 @@
 # 2kinect
 
 
-2.설치 단계
+## 2.설치 단계
 
 2.1 Kinect for Windows SDK v2 설치
  - 
@@ -13,7 +13,7 @@
 
 시스템 요구 사항:
 
-지원되는 운영 체제 (Embedded 8 Standard, Windows8, Window 8.1)
+지원되는 운영 체제 (Embedded 8 Standard, Windows8, Window 8.1)(사용자:Window10, 64-bit)
 - 권장 하드웨어 구성 : 64-bit (x64) 프로세서 / 4 GB 메모리 (이상) / Physical dual-core 3.1 GHz (2 logical cores per physical) 이상 프로세서 /  Kinect for Windows v2 센서 전용 USB 3.0 controller*/ DX11 capable graphics adapter** / 전원 허브 및 USB 케이블이 포함 된 Microsoft Kinect v2 케이블
 
 ![](images/kinect%20hardware.png)
@@ -21,7 +21,7 @@
 - Softerware 요구 사항:
   - Visual 2012 또는 [Visual Studio2013](https://www.microsoft.com/ko-kr/download/details.aspx?id=40784) 
 
-설치하는 동안 :
+설치 진행 순서 상세 :
   1. kinect 센서가 컴퓨터 USB 포트에 연결되어 있지 않은지 확인합니다.
   2. 다운로드 위치에서 KinectSDK_v2.0_1409-Setup.exe를 두 번 클릭합니다.
 
